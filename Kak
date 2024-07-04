@@ -1,0 +1,13 @@
+local Pl = game.PlaceId
+
+if Pl == 7622046644  then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheXesonz/Monster/main/Beta"))()
+
+elseif Pl == 914010731 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheXesonz/Ro-Ghoul/main/Xesonz"))()
+
+else
+        game.Players.LocalPlayer:Kick("Script Not Found Map")
+        wait(1)
+	    game:GetService("TeleportService"):Teleport(game.Pl, game:GetService("Players").LocalPlayer)
+end
