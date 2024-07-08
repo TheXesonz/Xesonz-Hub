@@ -12,7 +12,7 @@ elseif Pl == 17167990958 then -- Rock Fruit
 elseif Pl == 6918802270 then -- Haze Piece
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TheXesonz/Hazepiece/main/Kak"))()
 
-elseif Pl == 6918802270 then -- Jujutsu Legacy
+elseif Pl == 15694107053 then -- Jujutsu Legacy
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TheXesonz/Jujutsu/main/Kak"))()
 
 else
