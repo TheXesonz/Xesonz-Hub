@@ -15,6 +15,9 @@ elseif Pl == 6918802270 then -- Haze Piece
 elseif Pl == 15694107053 or Pl == 17889317592 then -- Jujutsu Legacy
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TheXesonz/Jujutsu/main/Kak"))()
 
+elseif Pl == 10260193230 then -- Meme Sea
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheXesonz/memesea/main/Kak"))()
+
 else
     game.Players.LocalPlayer:Kick("Script Not Found Map")
     wait(1)
